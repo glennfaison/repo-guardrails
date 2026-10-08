@@ -4,6 +4,14 @@ A comprehensive setup checklist designed to establish strict, automated guardrai
 
 ---
 
+## License
+
+This project is released under the MIT License. See [LICENSE](LICENSE) for full terms.
+
+## Contributing
+
+Contributions are welcome, but all pull requests must be reviewed and approved by @glennfaison or another code owner listed in [CODEOWNERS](CODEOWNERS) before merge.
+
 ## 1. Branching Strategy & Naming Conventions
 
 - [ ] **Define branching rules:** Select and document the team's branching strategy (e.g., standard Gitflow or Trunk-Based Development).
